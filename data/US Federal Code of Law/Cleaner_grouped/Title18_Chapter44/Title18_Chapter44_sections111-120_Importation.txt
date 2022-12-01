@@ -1,0 +1,357 @@
+§ 478.111 General.
+a.Section 922(a)(3) of the Act makes it unlawful, with certain exceptions not pertinent here, for any person other than a licensee to transport into or receive in the State where the person resides any firearm purchased or otherwise obtained by the person outside of that State. However, section 925(a)(4) provides a limited exception for the transportation, shipment, receipt or importation of certain firearms and ammunition by certain members of the United States Armed Forces. Section 922(1) of the Act makes it unlawful for any person knowingly to import or bring into the United States or any possession thereof any firearm or ammunition except as provided by section 925(d) of the Act, which section provides standards for importing or bringing firearms or ammunition into the United States. Section 925(d) also provides standards for importing or bringing firearm barrels into the United States. Accordingly, no firearm, firearm barrel, or ammunition may be imported or brought into the United States except as provided by this part.
+
+b.Where a firearm, firearm barrel, or ammunition is imported and the authorization for importation required by this subpart has not been obtained by the person importing same, such person shall:
+
+1.Store, at the person's expense, such firearm, firearm barrel, or ammunition at a facility designated by U.S Customs or the Director of Industry Operations to await the issuance of the required authorization or other disposition; or
+
+2.Abandon such firearm, firearm barrel, or ammunition to the U.S. Government; or
+
+3.Export such firearm, firearm barrel, or ammunition.
+
+c.Any inquiry relative to the provisions or procedures under this subpart, other than that pertaining to the payment of customs duties or the release from Customs custody of firearms, firearm barrels, or ammunition authorized by the Director to be imported, shall be directed to the Director of Industry Operations for reply.
+
+§ 478.112 Importation by a licensed importer.
+a.No firearm, firearm barrel, or ammunition shall be imported or brought into the United States by a licensed importer (as defined in § 478.11) unless the Director has authorized the importation of the firearm, firearm barrel, or ammunition.
+
+b.
+1.An application for a permit, ATF Form 6—Part I, to import or bring a firearm, firearm barrel, or ammunition into the United States or a possession thereof under this section must be filed, in triplicate, with the Director. The application must be signed and dated and must contain the information requested on the form, including:
+
+i.The name, address, telephone number, and license number (including expiration date) of the importer;
+
+ii.The country from which the firearm, firearm barrel, or ammunition is to be imported;
+
+iii.The name and address of the foreign seller and foreign shipper;
+
+iv.A description of the firearm, firearm barrel, or ammunition to be imported, including:
+
+A.The name and address of the manufacturer;
+
+B.The type ( e.g., rifle, shotgun, pistol, revolver and, in the case of ammunition only, ball, wadcutter, shot, etc.);
+
+C.The caliber, gauge, or size;
+
+D.The model;
+
+E.The barrel length, if a firearm or firearm barrel (in inches);
+
+F.The overall length, if a firearm (in inches);
+
+G.The serial number, if known;
+
+H.Whether the firearm is new or used;
+
+I.The quantity;
+
+J.The unit cost of the firearm, firearm barrel, or ammunition to be imported;
+
+v.The specific purpose of importation, including final recipient information if different from the importer;
+
+vi.Verification that if a firearm, it will be identified as required by this part; and
+
+vii.
+A.If a firearm or ammunition imported or brought in for scientific or research purposes, a statement describing such purpose; or
+
+B.If a firearm or ammunition for use in connection with competition or training pursuant to Chapter 401 of Title 10, U.S.C., a statement describing such intended use; or
+
+C.If an unserviceable firearm (other than a machine gun) being imported as a curio or museum piece, a description of how it was rendered unserviceable and an explanation of why it is a curio or museum piece; or
+
+D.If a firearm other than a surplus military firearm, of a type that does not fall within the definition of a firearm under section 5845(a) of the Internal Revenue Code of 1986, and is for sporting purposes, an explanation of why the firearm is generally recognized as particularly suitable for or readily adaptable to sporting purposes; or
+
+E.If ammunition being imported for sporting purposes, a statement why the ammunition is particularly suitable for or readily adaptable to sporting purposes; or
+
+F.If a firearm barrel for a handgun, an explanation why the handgun is generally recognized as particularly suitable for or readily adaptable to sporting purposes.
+
+2.
+i.If the Director approves the application, such approved application will serve as the permit to import the firearm, firearm barrel, or ammunition described therein, and importation of such firearms, firearm barrels, or ammunition may continue to be made by the licensed importer under the approved application (permit) during the period specified thereon. The Director will furnish the approved application (permit) to the applicant and retain two copies thereof for administrative use.
+
+ii.If the Director disapproves the application, the licensed importer will be notified of the basis for the disapproval.
+
+c.A firearm, firearm barrel, or ammunition imported or brought into the United States or a possession thereof under the provisions of this section by a licensed importer may be released from Customs custody to the licensed importer upon showing that the importer has obtained a permit from the Director for the importation of the firearm, firearm barrel, or ammunition to be released. The importer will also submit to Customs a copy of the export license authorizing the export of the firearm, firearm barrel, or ammunition from the exporting country. If the exporting country does not require issuance of an export license, the importer must submit a certification, under penalty of perjury, to that effect.
+
+1.In obtaining the release from Customs custody of a firearm, firearm barrel, or ammunition authorized by this section to be imported through the use of a permit, the licensed importer will prepare ATF Form 6A, in duplicate, and furnish the original ATF Form 6A to the Customs officer releasing the firearm, firearm barrel, or ammunition. The Customs officer will, after certification, forward the ATF Form 6A to the address specified on the form.
+
+2.The ATF Form 6A must contain the information requested on the form, including:
+
+i.The name, address, and license number of the importer;
+
+ii.The name of the manufacturer of the firearm, firearm barrel, or ammunition;
+
+iii.The country of manufacture;
+
+iv.The type;
+
+v.The model;
+
+vi.The caliber, gauge, or size;
+
+vii.The serial number in the case of firearms, if known; and
+
+viii.The number of firearms, firearm barrels, or rounds of ammunition released.
+
+d.Within 15 days of the date of release from Customs custody, the licensed importer must:
+
+1.Forward to the address specified on the form a copy of ATF Form 6A on which must be reported any error or discrepancy appearing on the ATF Form 6A certified by Customs and serial numbers if not previously provided on ATF Form 6A;
+
+2.Pursuant to § 478.92, place all required identification data on each imported firearm if same did not bear such identification data at the time of its release from Customs custody; and
+
+3.Post in the records required to be maintained by the importer under subpart H of this part all required information regarding the importation.
+
+§ 478.113 Importation by other licensees.
+a.No person other than a licensed importer (as defined in § 478.11) shall engage in the business of importing firearms or ammunition. Therefore, no firearm or ammunition shall be imported or brought into the United States or a possession thereof by any licensee other than a licensed importer unless the Director issues a permit authorizing the importation of the firearm or ammunition. No barrel for a handgun not generally recognized as particularly suitable for or readily adaptable to sporting purposes shall be imported or brought into the United States or a possession thereof by any person. Therefore, no firearm barrel shall be imported or brought into the United States or possession thereof by any licensee other than a licensed importer unless the Director issues a permit authorizing the importation of the firearm barrel.
+
+b.
+1.An application for a permit, ATF Form 6—Part I, to import or bring a firearm, firearm barrel, or ammunition into the United States or a possession thereof by a licensee, other than a licensed importer, must be filed, in triplicate, with the Director. The application must be signed and dated and must contain the information requested on the form, including:
+
+i.The name, address, telephone number, and license number (including expiration date) of the applicant;
+
+ii.The country from which the firearm, firearm barrel, or ammunition is to be imported;
+
+iii.The name and address of the foreign seller and foreign shipper;
+
+iv.A description of the firearm, firearm barrel, or ammunition to be imported, including:
+
+A.The name and address of the manufacturer;
+
+B.The type (e.g., rifle, shotgun, pistol, revolver and, in the case of ammunition only, ball, wadcutter, shot, etc.);
+
+C.The caliber, gauge, or size;
+
+D.The model;
+
+E.The barrel length, if a firearm or firearm barrel (in inches);
+
+F.The overall length, if a firearm (in inches);
+
+G.The serial number, if known;
+
+H.Whether the firearm is new or used;
+
+I.The quantity;
+
+J.The unit cost of the firearm, firearm barrel, or ammunition to be imported;
+
+v.The specific purpose of importation, including final recipient information if different from the applicant; and
+
+vi.
+A.If a firearm or ammunition imported or brought in for scientific or research purposes, a statement describing such purpose; or
+
+B.If a firearm or ammunition for use in connection with competition or training pursuant to Chapter 401 of Title 10, U.S.C., a statement describing such intended use; or
+
+C.If an unserviceable firearm (other than a machine gun) being imported as a curio or museum piece, a description of how it was rendered unserviceable and an explanation of why it is a curio or museum piece; or
+
+D.If a firearm other than a surplus military firearm, of a type that does not fall within the definition of a firearm under section 5845(a) of the Internal Revenue Code of 1986, and is for sporting purposes, an explanation of why the firearm is generally recognized as particularly suitable for or readily adaptable to sporting purposes; or
+
+E.If ammunition being imported for sporting purposes, a statement why the ammunition is particularly suitable for or readily adaptable to sporting purposes; or
+
+F.If a firearm barrel for a handgun, an explanation why the handgun is generally recognized as particularly suitable for or readily adaptable to sporting purposes.
+
+2.
+i.If the Director approves the application, such approved application will serve as the permit to import the firearm, firearm barrel, or ammunition described therein, and importation of such firearms, firearm barrels, or ammunition may continue to be made by the applicant under the approved application (permit) during the period specified thereon. The Director will furnish the approved application (permit) to the applicant and retain two copies thereof for administrative use.
+
+ii.If the Director disapproves the application, the applicant will be notified of the basis for the disapproval.
+
+c.A firearm, firearm barrel, or ammunition imported or brought into the United States or a possession thereof under the provisions of this section may be released from Customs custody to the licensee upon showing that the licensee has obtained a permit from the Director for the importation of the firearm, firearm barrel, or ammunition to be released.
+
+1.In obtaining the release from Customs custody of a firearm, firearm barrel, or ammunition authorized by this section to be imported through the use of a permit, the licensee will prepare ATF Form 6A, in duplicate, and furnish the original ATF Form 6A to the Customs officer releasing the firearm, firearm barrel, or ammunition. The Customs officer will, after certification, forward the ATF Form 6A to the address specified on the form.
+
+2.The ATF Form 6A must contain the information requested on the form, including:
+
+i.The name, address, and license number of the licensee;
+
+ii.The name of the manufacturer of the firearm, firearm barrel, or ammunition;
+
+iii.The country of manufacture;
+
+iv.The type;
+
+v.The model;
+
+vi.The caliber, gauge, or size;
+
+vii.The serial number in the case of firearms; and
+
+viii.The number of firearms, firearm barrels, or rounds of ammunition released.
+
+§ 478.113a Importation of firearm barrels by nonlicensees.
+a.A permit will not be issued for a firearm barrel for a handgun not generally recognized as particularly suitable for or readily adaptable to sporting purposes. No firearm barrel shall be imported or brought into the United States or possession thereof by any nonlicensee unless the Director issues a permit authorizing the importation of the firearm barrel.
+
+b.
+1.An application for a permit, ATF Form 6—Part I, to import or bring a firearm barrel into the United States or a possession thereof under this section must be filed, in triplicate, with the Director. The application must be signed and dated and must contain the information requested on the form, including:
+
+i.The name, address, and telephone number of the applicant;
+
+ii.The country from which the firearm barrel is to be imported;
+
+iii.The name and address of the foreign seller and foreign shipper;
+
+iv.A description of the firearm barrel to be imported, including:
+
+A.The name and address of the manufacturer;
+
+B.The type (e.g., rifle, shotgun, pistol, revolver);
+
+C.The caliber, gauge, or size;
+
+D.The model;
+
+E.The barrel length (in inches);
+
+F.The quantity;
+
+G.The unit cost of the firearm barrel;
+
+v.The specific purpose of importation, including final recipient information if different from the importer; and
+
+vi.If a handgun barrel, an explanation of why the barrel is for a handgun that is generally recognized as particularly suitable for or readily adaptable to sporting purposes.
+
+2.
+i.If the Director approves the application, such approved application will serve as the permit to import the firearm barrel, and importation of such firearm barrels may continue to be made by the applicant under the approved application (permit) during the period specified thereon. The Director will furnish the approved application (permit) to the applicant and retain two copies thereof for administrative use.
+
+ii.If the Director disapproves the application, the applicant will be notified of the basis for the disapproval.
+
+c.A firearm barrel imported or brought into the United States or a possession thereof under the provisions of this section may be released from Customs custody to the person importing the firearm barrel upon showing that the person has obtained a permit from the Director for the importation of the firearm barrel to be released.
+
+1.In obtaining the release from Customs custody of a firearm barrel authorized by this section to be imported through the use of a permit, the person importing the firearm barrel will prepare ATF Form 6A, in duplicate, and furnish the original ATF Form 6A to the Customs officer releasing the firearm barrel. The Customs officer will, after certification, forward the ATF Form 6A to the address specified on the form.
+
+2.The ATF Form 6A must contain the information requested on the form, including:
+
+i.The name and address of the person importing the firearm barrel;
+
+ii.The name of the manufacturer of the firearm barrel;
+
+iii.The country of manufacture;
+
+iv.The type;
+
+v.The model;
+
+vi.The caliber or gauge of the firearm barrel so released; and
+
+vii.The number of firearm barrels released.
+
+§ 478.114 Importation by members of the U.S. Armed Forces.
+a.The Director may issue a permit authorizing the importation of a firearm or ammunition into the United States to the place of residence of any military member of the U.S. Armed Forces who is on active duty outside the United States, or who has been on active duty outside the United States within the 60-day period immediately preceding the intended importation: Provided, That such firearm or ammunition is generally recognized as particularly suitable for or readily adaptable to sporting purposes and is intended for the personal use of such member.
+
+1.An application for a permit, ATF Form 6—Part II, to import a firearm or ammunition into the United States under this section must be filed, in triplicate, with the Director. The application must be signed and dated and must contain the information requested on the form, including:
+
+i.The name, current address, and telephone number of the applicant;
+
+ii.Certification that the transportation, receipt, or possession of the firearm or ammunition to be imported would not constitute a violation of any provision of the Act or of any State law or local ordinance at the place of the applicant's residence;
+
+iii.The country from which the firearm or ammunition is to be imported;
+
+iv.The name and address of the foreign seller and foreign shipper;
+
+v.A description of the firearm or ammunition to be imported, including:
+
+A.The name and address of the manufacturer;
+
+B.The type (e.g., rifle, shotgun, pistol, revolver and, in the case of ammunition only, ball, wadcutter, shot, etc.);
+
+C.The caliber, gauge, or size;
+
+D.The model;
+
+E.The barrel length, if a firearm (in inches);
+
+F.The overall length, if a firearm (in inches);
+
+G.The serial number;
+
+H.Whether the firearm is new or used;
+
+I.The quantity;
+
+J.The unit cost of the firearm or ammunition to imported;
+
+vi.The specific purpose of importation, that is—
+
+A.That the firearm or ammunition being imported is for the personal use of the applicant; and
+
+B.If a firearm, a statement that it is not a surplus military firearm, that it does not fall within the definition of a firearm under section 5845(a) of the Internal Revenue Code of 1986, and an explanation of why the firearm is generally recognized as particularly suitable for or readily adaptable to sporting purposes; or
+
+C.If ammunition, a statement why it is generally recognized as particularly suitable for or readily adaptable to sporting purposes; and
+
+vii.The applicant's date of birth;
+
+viii.The applicant's rank or grade;
+
+ix.The applicant's place of residence;
+
+x.The applicant's present foreign duty station or last foreign duty station, as the case may be;
+
+xi.The date of the applicant's reassignment to a duty station within the United States, if applicable; and
+
+xii.The military branch of which the applicant is a member.
+
+2.
+i.If the Director approves the application, such approved application will serve as the permit to import the firearm or ammunition described therein. The Director will furnish the approved application (permit) to the applicant and retain two copies thereof for administrative use.
+
+ii.If the Director disapproves the application, the applicant will be notified of the basis for the disapproval.
+
+b.Except as provided in paragraph (b)(3) of this section, a firearm or ammunition imported into the United States under the provisions of this section by the applicant may be released from Customs custody to the applicant upon showing that the applicant has obtained a permit from the Director for the importation of the firearm or ammunition to be released.
+
+1.In obtaining the release from Customs custody of a firearm or ammunition authorized by this section to be imported through the use of a permit, the military member of the U.S. Armed Forces will prepare ATF Form 6A and furnish the completed form to the Customs officer releasing the firearm or ammunition. The Customs officer will, after certification, forward the ATF Form 6A to the address specified on the form.
+
+2.The ATF Form 6A must contain the information requested on the form, including:
+
+i.The name and address of the military member;
+
+ii.The name of the manufacturer of the firearm or ammunition;
+
+iii.The country of manufacture;
+
+iv.The type;
+
+v.The model;
+
+vi.The caliber, gauge, or size;
+
+vii.The serial number in the case of firearms; and
+
+viii.If applicable, the number of firearms or rounds of ammunition released.
+
+3.When such military member is on active duty outside the United States, the military member may appoint, in writing, an agent to obtain the release of the firearm or ammunition from Customs custody for such member. Such agent will present sufficient identification of the agent and the written authorization to act on behalf of such military member to the Customs officer who is to release the firearm or ammunition.
+
+c.Firearms determined by the Department of Defense to be war souvenirs may be imported into the United States by the military members of the U.S. Armed Forces under such provisions and procedures as the Department of Defense may issue.
+
+§ 478.115 Exempt importation.
+a.Firearms and ammunition may be brought into the United States or any possession thereof by any person who can establish to the satisfaction of Customs that such firearm or ammunition was previously taken out of the United States or any possession thereof by such person. Registration on Customs Form 4457 or on any other registration document available for this purpose may be completed before departure from the United States at any U.S. customhouse or any office of an Director of Industry Operations. A bill of sale or other commercial document showing transfer of the firearm or ammunition in the United States to such person also may be used to establish proof that the firearm or ammunition was taken out of the United States by such person. Firearms and ammunition furnished under the provisions of section 925(a)(3) of the Act to military members of the U.S. Armed Forces on active duty outside of the United States also may be imported into the United States or any possession thereof by such military members upon establishing to the satisfaction of Customs that such firearms and ammunition were so obtained.
+
+b.Firearms, firearm barrels, and ammunition may be imported or brought into the United States by or for the United States or any department or agency thereof, or any State or any department, agency, or political subdivision thereof. A firearm, firearm barrel or ammunition imported or brought into the United States under this paragraph may be released from Customs custody upon a showing that the firearm, firearm barrel or ammunition is being imported or brought into the United States by or for such a governmental entity.
+
+c.The provisions of this subpart shall not apply with respect to the importation into the United States of any antique firearm.
+
+d.Firearms and ammunition are not imported into the United States, and the provisions of this subpart shall not apply, when such firearms and ammunition are brought into the United States by:
+
+1.A nonresident of the United States for legitimate hunting or lawful sporting purposes, and such firearms and such ammunition as remains following such shooting activity are to be taken back out of the territorial limits of the United States by such person upon conclusion of the shooting activity;
+
+2.Foreign military personnel on official assignment to the United States who bring such firearms or ammunition into the United States for their exclusive use while on official duty in the United States, and such firearms and unexpended ammunition are taken back out of the territorial limits of the United States by such foreign military personnel when they leave the United States;
+
+3.Official representatives of foreign governments who are accredited to the U.S. Government or are en route to or from other countries to which accredited, and such firearms and unexpended ammunition are taken back out of the territorial limits of the United States by such official representatives of foreign governments when they leave the United States;
+
+4.Officials of foreign governments and distinguished foreign visitors who have been so designated by the Department of State, and such firearms and unexpended ammunition are taken back out of the territorial limits of the United States by such officials of foreign governments and distinguished foreign visitors when they leave the United States; and
+
+5.Foreign law enforcement officers of friendly foreign governments entering the United States on official law enforcement business, and such firearms and unexpended ammunition are taken back out of the territorial limits of the United States by such foreign law enforcement officers when they leave the United States.
+
+e.Notwithstanding the provisions of paragraphs (d) (1), (2), (3), (4) and (5) of this section, the Secretary of the Treasury or his delegate may in the interest of public safety and necessity require a permit for the importation or bringing into the United States of any firearms or ammunition.
+
+§ 478.116 Conditional importation.
+The Director shall permit the conditional importation or bringing into the United States or any possession thereof of any firearm, firearm barrel, or ammunition for the purpose of examining and testing the firearm, firearm barrel, or ammunition in connection with making a determination as to whether the importation or bringing in of such firearm, firearm barrel, or ammunition will be authorized under this part. An application on ATF Form 6 for such conditional importation shall be filed, in duplicate, with the Director. The Director may impose conditions upon any importation under this section including a requirement that the firearm, firearm barrel, or ammunition be shipped directly from Customs custody to the Director and that the person importing or bringing in the firearm, firearm barrel, or ammunition must agree to either export the firearm, firearm barrel, or ammunition or destroy same if a determination is made that the firearm, firearm barrel, or ammunition may not be imported or brought in under this part. A firearm, firearm barrel, or ammunition imported or brought into the United States or any possession thereof under the provisions of this section shall be released from Customs custody upon the payment of customs duties, if applicable, and in the manner prescribed in the conditional authorization issued by the Director.
+
+§ 478.117 Function outside a customs territory.
+In the insular possessions of the United States outside customs territory, the functions performed by U.S. Customs officers under this subpart within a customs territory may be performed by the appropriate authorities of a territorial government or other officers of the United States who have been designated to perform such functions. For the purpose of this subpart, the term customs territory means the United States, the District of Columbia, and the Commonwealth of Puerto Rico.
+
+§ 478.118 Importation of certain firearms classified as curios or relics.
+Notwithstanding any other provision of this part, a licensed importer may import all rifles and shotguns classified by the Director as curios or relics, and all handguns classified by the Director as curios or relics that are determined to be generally recognized as particularly suitable for or readily adaptable to sporting purposes. The importation of such curio or relic firearms must be in accordance with the applicable importation provisions of this part and the importation provisions of 27 CFR part 447. Curios or relics which fall within the definition of “firearm” under 26 U.S.C. 5845(a) must also meet the importation provisions of 27 CFR part 479 before they may be imported.
+
+§ 478.119 [Reserved]
+§ 478.120 Firearms or ammunition imported by or for a nonimmigrant alien.
+a.General. A nonimmigrant alien temporarily importing or bringing firearms or ammunition into the United States for lawful hunting or sporting purposes must first obtain an approved ATF Form 6NIA (5330.3D).
+
+b.Aliens admitted to the United States under a nonimmigrant visa.
+
+1.Any alien lawfully admitted to the United States under a nonimmigrant visa who completes an ATF Form 6NIA to import firearms or ammunition into the United States, or any licensee who completes an ATF Form 6 to import firearms or ammunition for such nonimmigrant alien, must attach applicable documentation to the Form 6NIA or Form 6 establishing the nonimmigrant alien falls within an exception specified in 18 U.S.C. 922(y)(2) (e.g., a hunting license or permit lawfully issued in the United States) or has obtained a waiver as specified in 18 U.S.C. 922(y)(3).
+
+2.Aliens admitted to the United States under a nonimmigrant visa importing or bringing firearms or ammunition into the United States must provide the United States Customs and Border Protection with applicable documentation (e.g., a hunting license or permit lawfully issued in the United States) establishing the nonimmigrant alien falls within an exception specified in 18 U.S.C. 922(y)(2) or has obtained a waiver as specified in 18 U.S.C. 922(y)(3) before the firearm or ammunition may be imported. This provision applies in all cases, whether or not a Form 6 is needed to bring the firearms or ammunition into the United States.

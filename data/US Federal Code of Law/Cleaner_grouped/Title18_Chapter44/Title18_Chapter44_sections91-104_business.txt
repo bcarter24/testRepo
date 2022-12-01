@@ -1,0 +1,325 @@
+§ 478.91 Posting of license.
+Any license issued under this part shall be kept posted and kept available for inspection on the premises covered by the license.
+
+§ 478.92 Identification of firearms and armor piercing ammunition.
+a.
+1.FIREARMS MANUFACTURED OR IMPORTED BY LICENSEES. Except as otherwise provided in this section, licensed manufacturers and licensed importers of firearms must legibly identify each firearm they manufacture or import as follows:
+
+i.Serial number, name, place of business. By engraving, casting, stamping (impressing), or otherwise conspicuously placing or causing to be engraved, cast, stamped (impressed) or otherwise placed on the frame or receiver thereof, an individual serial number, in a manner not susceptible of being readily obliterated, altered, or removed. The serial number must not duplicate any serial number placed by the licensee on any other firearm. The frame or receiver must also be marked with either: their name (or recognized abbreviation), and city and State (or recognized abbreviation) where they maintain their place of business; or their name (or recognized abbreviation) and the serial number beginning with their abbreviated Federal firearms license number, which is the first three and last five digits, as a prefix to the unique identification number, followed by a hyphen, e.g., “12345678-[unique identification number]”; and
+
+ii.Model, caliber or gauge, foreign manufacturer, country of manufacture. By engraving, casting, stamping (impressing), or otherwise conspicuously placing or causing to be engraved, cast, stamped (impressed) or placed on the frame or receiver, or barrel or pistol slide (if applicable) thereof, certain additional information. This information must be placed in a manner not susceptible of being readily obliterated, altered, or removed. The additional information shall include:
+
+A.The model, if such designation has been made;
+
+B.The caliber or gauge;
+
+C.When applicable, the name of the foreign manufacturer; and
+
+D.In the case of an imported firearm, the name of the country in which it was manufactured. For additional requirements relating to imported firearms, see Customs regulations at 19 CFR part 134.
+
+iii.Multi-piece frame or receiver. In the case of a multi-piece frame or receiver, the modular subpart that is the outermost housing or structure designed to house, hold, or contain either the primary energized component of a handgun, breech blocking or sealing component of a projectile weapon other than a handgun, or internal sound reduction component of a firearm muffler or firearm silencer, as the case may be, shall be the subpart of the multi-piece frame or receiver identified in accordance with this section. If more than one subpart is similarly designed to house, hold, or contain such primary component ( e.g., left and right halves), each of those subparts must be identified with the same serial number and associated licensee information not duplicated on any other frame or receiver. The identified subpart(s) of a complete (assembled or unassembled) multi-piece frame or receiver shall not be removed and replaced ( see § 478.34, 18 U.S.C. 922(k), and 26 U.S.C. 5861(g) and (h)), unless—
+
+A.The subpart replacement is not a firearm under 26 U.S.C. 5845;
+
+B.The subpart replacement is identified by the licensed manufacturer of the original subpart with the same serial number and associated licensee information in the manner prescribed by this section; and
+
+C.The original subpart is destroyed under the licensed manufacturer's control or direct supervision prior to such placement.
+
+iv.Frame or receiver, machinegun conversion part, or muffler or silencer part disposed of separately. Each part defined as a frame or receiver or modular subpart thereof described in paragraph (a)(1)(iii) of this section, machinegun, or firearm muffler or firearm silencer that is not a component part of a complete weapon or complete muffler or silencer device at the time it is sold, shipped, or otherwise disposed of by the licensee must be identified as required by this section with an individual serial number not duplicated on any other firearm and all additional identifying information, except that the model designation and caliber or gauge may be omitted if that information is unknown at the time the part is identified.
+
+v.Size and depth of markings. The engraving, casting, or stamping (impressing) of the serial number and additional information must be to a minimum depth of .003 inch, and the serial number and any associated license number in a print size no smaller than 1/16 inch. The size of the serial and license number is measured as the distance between the latitudinal ends of the character impression bottoms (bases). The depth of all markings required by this section is measured from the flat surface of the metal and not the peaks or ridges.
+
+vi.Period of time to identify firearms. Licensed manufacturers shall identify firearms they manufacture within the period of time set forth in the following subparagraphs (A) and (B), and licensed importers must identify firearms they import within the period prescribed in § 478.112. For purposes of these subparagraphs, firearms awaiting materials, parts, or equipment repair to be completed are presumed, absent reliable evidence to the contrary, to be in the manufacturing process.
+
+A.Complete non-National Firearms Act weapons, and frames or receivers of such weapons. Complete weapons not defined as firearms under 26 U.S.C. 5845 shall be identified not later than the seventh day following the date the entire manufacturing process has ended for the weapon, or prior to disposition, whichever is sooner. Each part, including a replacement part, defined as a frame or receiver or modular subpart thereof described in paragraph (a)(1)(iii) of this section (other than a machinegun or firearm muffler or firearm silencer) that is not a component part of a complete weapon at the time it is sold, shipped, or otherwise disposed of shall be identified not later than the seventh day following the date the entire manufacturing process has ended for the frame or receiver or modular subpart, or prior to disposition, whichever is sooner.
+
+B.Complete National Firearms Act weapons and devices, and machinegun and muffler or silencer parts. Complete weapons defined as firearms under 26 U.S.C. 5845, and complete muffler or silencer devices, shall be identified not later than close of the next business day following the date the entire manufacturing process has ended for the weapon or device, or prior to disposition, whichever is sooner. Each part or modular subpart defined as a machinegun ( i.e., frame or receiver or conversion part), or firearm muffler or firearm silencer, that is not a component part of a complete weapon or complete firearm muffler or silencer device at the time it is sold, shipped, or otherwise disposed of shall be identified not later than close of the next business day following the date the entire manufacturing process has ended for the part, or prior to disposition, whichever is sooner.
+
+2.PRIVATELY MADE FIREARMS (PMFS). Unless previously identified by another licensee in accordance with, and except as otherwise provided by, this section, licensees must legibly and conspicuously identify each privately made firearm or “PMF” received or otherwise acquired (including from a personal collection) not later than the seventh day following the date of receipt or other acquisition, or before the date of disposition (including to a personal collection), whichever is sooner. PMFs must be identified by placing, or causing to be placed under the licensee's direct supervision, an individual serial number on the frame or receiver, which must not duplicate any serial number placed by the licensee on any other firearm. The serial number must begin with the licensee's abbreviated Federal firearms license number, which is the first three and last five digits, as a prefix to a unique identification number, followed by a hyphen, e.g., “12345678-[unique identification number]”. The serial number must be placed in a manner otherwise in accordance with this section, including the requirements that the serial number be at the minimum size and depth, and not susceptible of being readily obliterated, altered, or removed. An acceptable method of identifying a PMF is by placing the serial number on a metal plate that is permanently embedded into a polymer frame or receiver, or other method approved by the Director.
+
+3.MEANING OF MARKING TERMS. For purposes of this section, the term “identify” means placing marks of identification, the terms “legible” and “legibly” mean that the identification markings (including a unique identification number) use exclusively Roman letters ( e.g., A, a, B, b, C, c) and Arabic numerals ( e.g., 1, 2, 3), or solely Arabic numerals, and may include a hyphen, and the terms “conspicuous” and “conspicuously” mean that the identification markings are capable of being easily seen with the naked eye during normal handling of the firearm, and are unobstructed by other markings when the complete weapon or device is assembled.
+
+4.EXCEPTIONS—
+
+i.Alternate means of identification. The Director may authorize other means of identification to identify firearms upon receipt of a letter application or prescribed form from the licensee showing that such other identification is reasonable and will not hinder the effective administration of this part.
+
+ii.Destructive devices. In the case of a destructive device, the Director may authorize other means of identification to identify that weapon upon receipt of a letter application or prescribed form from the licensee. The application shall show that engraving, casting, or stamping (impressing) such a weapon as required by this section would be dangerous or impracticable and that the alternate means of identification proposed will not hinder the effective administration of this part.
+
+iii.Adoption of identifying markings. Licensees may adopt existing markings previously placed on a firearm and are not required to mark a serial number or other identifying markings in accordance with this section, as follows:
+
+A.Newly manufactured firearms: Licensed manufacturers may adopt the serial number and other identifying markings previously placed on a firearm by another licensed manufacturer provided the firearm has not been sold, shipped, or otherwise disposed of to a person other than a licensee, and the serial number adopted is not duplicated on any other firearm.
+
+B.Remanufactured or imported firearms. Licensed manufacturers and licensed importers may adopt the serial number or other identifying markings previously placed on a firearm that otherwise meets the requirements of this section that has been sold, shipped, or otherwise disposed of to a person other than a licensee provided that, within the period and in the manner herein prescribed, the licensee legibly and conspicuously places, or causes to be placed, on the frame or receiver either: Their name (or recognized abbreviation), and city and State (or recognized abbreviation) where they maintain their place of business; or their name (or recognized abbreviation) and abbreviated Federal firearms license number, which is the first three and last five digits, individually ( i.e., not as a prefix to the serial number adopted) after the letters “FFL”, in the following format: “FFL12345678”. The serial number adopted must not duplicate any serial number adopted or placed on any other firearm, except that if a licensed importer receives two or more firearms with the same foreign manufacturer's serial number, the importer may adopt the serial number by adding letters or numbers to that serial number, and may include a hyphen.
+
+C.Manufacturers performing gunsmithing services. Licensed manufacturers may adopt the serial number or other identifying markings previously placed on a firearm by another licensee provided the manufacturer is performing services for a nonlicensee as a gunsmith (as defined in § 478.11) on existing firearms not for sale or distribution.
+
+D.Privately made firearms marked by nonlicensees. Unless previously identified by another licensee in accordance with this section, licensees may adopt a unique identification number previously placed on a privately made firearm by an unlicensed person, but not duplicated on any other firearm of the licensee, that otherwise meets the identification requirements of this section provided that, within the period and in the manner herein prescribed, the licensee legibly and conspicuously places, or causes to be placed, on the frame or receiver thereof a serial number beginning with their abbreviated Federal firearms license number, which is the first three and last five digits, followed by a hyphen, before the existing unique identification number, e.g., “12345678-[unique identification number]”.
+
+iv.
+A.Firearm muffler or silencer parts transferred between qualified manufacturers for further manufacture or to complete new devices. Licensed manufacturers qualified under 27 CFR part 479 may transfer a part defined as a firearm muffler or firearm silencer to another qualified manufacturer without immediately identifying or registering such part provided that it is for further manufacture ( i.e., machining, coating, etc. ) or manufacturing a complete muffler or silencer device. Once the new device with such part is completed, the manufacturer who completes the device shall identify, record, and register it in the manner and within the period specified in this part for a complete muffler or silencer device.
+
+B.Firearm muffler or silencer replacement parts transferred to qualified manufacturers or dealers to repair existing devices. Licensed manufacturers qualified under part 479 may transfer a replacement part defined as a firearm muffler or firearm silencer other than a frame or receiver to a qualified manufacturer or dealer without identifying or registering such part provided that it is for repairing a complete muffler or silencer device that was previously identified, recorded, and registered in accordance with this part and part 479.
+
+v.Frames or receivers designed before August 24, 2022. Licensed manufacturers and licensed importers may continue to identify the same component of a firearm (other than a PMF) defined as a frame or receiver as it existed before August 24, 2022 with the same information required to be marked by paragraphs (a)(1)(i) and (a)(1)(ii) of this section that were in effect prior to that date, and any rules necessary to ensure such identification shall remain effective for that purpose. Any frame or receiver with a new design manufactured after August 24, 2022 must be marked with the identifying information and within the period prescribed by this section. For purposes of this paragraph, the term “new design” means that the design of the existing frame or receiver has been functionally modified or altered, as distinguished from performing a cosmetic process that adds to or changes the decoration of the frame or receiver ( e.g., painting or engraving), or by adding or replacing stocks, barrels, or accessories to the frame or receiver.
+
+vi.Privately made firearms acquired before August 24, 2022. Licensees shall identify in the manner prescribed by this section, or cause another person to so identify, each privately made firearm received or otherwise acquired (including from a personal collection) by the licensee before August 24, 2022within sixty (60) days from that date, or prior to the date of final disposition (including to a personal collection), whichever is sooner.
+
+b.Armor piercing ammunition -
+
+1.MARKING OF AMMUNITION. Each licensed manufacturer or licensed importer of armor piercing ammunition shall identify such ammunition by means of painting, staining or dying the exterior of the projectile with an opaque black coloring. This coloring must completely cover the point of the projectile and at least 50 percent of that portion of the projectile which is visible when the projectile is loaded into a cartridge case.
+
+2.LABELING OF PACKAGES. Each licensed manufacturer or licensed importer of armor piercing ammunition shall clearly and conspicuously label each package in which armor piercing ammunition is contained, e.g., each box, carton, case, or other container. The label shall include the words “ARMOR PIERCING” in block letters at least 1/4 inch in height. The lettering shall be located on the exterior surface of the package which contains information concerning the caliber or gauge of the ammunition. There shall also be placed on the same surface of the package in block lettering at least 1/8 inch in height the words “FOR GOVERNMENTAL ENTITIES OR EXPORTATION ONLY.” The statements required by this subparagraph shall be on a contrasting background.
+
+c.Voluntary classification of firearms and armor piercing ammunition. The Director may issue a determination (classification) to a person whether an item, including a kit, is a firearm or armor piercing ammunition as defined in this part upon receipt of a written request or form prescribed by the Director. Each such voluntary request or form submitted shall be executed under the penalties of perjury with a complete and accurate description of the item or kit, the name and address of the manufacturer or importer thereof, and a sample of such item or kit for examination. A firearm sample must include all accessories and attachments relevant to such classification as each classification is limited to the firearm in the configuration submitted. Each request for classification of a partially complete, disassembled, or nonfunctional item or kit must contain any associated templates, jigs, molds, equipment, or tools that are made available by the seller or distributor of the item or kit to the purchaser or recipient of the item or kit, and any instructions, guides, or marketing materials if they will be made available by the seller or distributor with the item or kit. Upon completion of the examination, the Director may return the sample to the person who made the request unless a determination is made that return of the sample would be or place the person in violation of law. Submissions of armor piercing ammunition with a projectile or projectile core constructed entirely from one or a combination of tungsten steel alloys, steel, iron, brass, bronze, beryllium copper, or depleted uranium must include a list of known handguns in which the ammunition may be used. Except for the classification of a specific component as the frame or receiver of a particular weapon, a determination made by the Director under this paragraph shall not be deemed by any person to be applicable to or authoritative with respect to any other sample, design, model, or configuration.
+
+§ 478.93 Authorized operations by a licensed collector.
+The license issued to a collector of curios or relics under the provisions of this part shall cover only transactions by the licensed collector in curios and relics. The collector's license is of no force or effect and a licensed collector is of the same status under the Act and this part as a nonlicensee with respect to (a) any acquisition or disposition of firearms other than curios or relics, or any transportation, shipment, or receipt of firearms other than curios or relics in interstate or foreign commerce, and (b) any transaction with a nonlicensee involving any firearm other than a curio or relic. (See also § 478.50.) A collectors license is not necessary to receive or dispose of ammunition, and a licensed collector is not precluded by law from receiving or disposing of armor piercing ammunition. However, a licensed collector may not dispose of any ammunition to a person prohibited from receiving or possessing ammunition (see § 478.99(c)). Any licensed collector who disposes of armor piercing ammunition must record the disposition as required by § 478.125 (a) and (b).
+
+§ 478.94 Sales or deliveries between licensees.
+A licensed importer, licensed manufacturer, or licensed dealer selling or otherwise disposing of firearms, and a licensed collector selling or otherwise disposing of curios or relics, to another licensee shall verify the identity and licensed status of the transferee prior to making the transaction. Verification shall be established by the transferee furnishing to the transferor a certified copy of the transferee's license and by such other means as the transferor deems necessary: Provided, That it shall not be required (a) for a transferee who has furnished a certified copy of its license to a transferor to again furnish such certified copy to that transferor during the term of the transferee's current license, (b) for a licensee to furnish a certified copy of its license to another licensee if a firearm is being returned either directly or through another licensee to such licensee and (c) for licensees of multilicensed business organizations to furnish certified copies of their licenses to other licensed locations operated by such organization: Provided further, That a multilicensed business organization may furnish to a transferor, in lieu of a certified copy of each license, a list, certified to be true, correct and complete, containing the name, address, license number, and the date of license expiration of each licensed location operated by such organization, and the transferor may sell or otherwise dispose of firearms as provided by this section to any licensee appearing on such list without requiring a certified copy of a license therefrom. A transferor licensee who has the certified information required by this section may sell or dispose of firearms to a licensee for not more than 45 days following the expiration date of the transferee's license.
+
+§ 478.95 Certified copy of license.
+The license furnished to each person licensed under the provisions of this part contains a purchasing certification statement. This original license may be reproduced and the reproduction then certified by the licensee for use pursuant to § 478.94. If the licensee desires an additional copy of the license for certification (instead of making a reproduction of the original license), the licensee may submit a request, in writing, for a certified copy or copies of the license to the Chief, Federal Firearms Licensing Center. The request must set forth the name, trade name (if any) and address of the licensee, and the number of license copies desired. There is a charge of $1 for each copy. The fee paid for copies of the license must accompany the request for copies. The fee may be paid by cash, or money order or check made payable to the Bureau of Alcohol, Tobacco, Firearms, and Explosives.
+
+§ 478.96 Out-of-State and mail order sales.
+a.The provisions of this section shall apply when a firearm is purchased by or delivered to a person not otherwise prohibited by the Act from purchasing or receiving it.
+
+b.A licensed importer, licensed manufacturer, or licensed dealer may sell a firearm that is not subject to the provisions of § 478.102(a) to a nonlicensee who does not appear in person at the licensee's business premises if the nonlicensee is a resident of the same State in which the licensee's business premises are located, and the nonlicensee furnishes to the licensee the firearms transaction record, Form 4473, required by § 478.124. The nonlicensee shall attach to such record a true copy of any permit or other information required pursuant to any statute of the State and published ordinance applicable to the locality in which he resides. The licensee shall prior to shipment or delivery of the firearm, forward by registered or certified mail (return receipt requested) a copy of the record, Form 4473, to the chief law enforcement officer named on such record, and delay shipment or delivery of the firearm for a period of at least 7 days following receipt by the licensee of the return receipt evidencing delivery of the copy of the record to such chief law enforcement officer, or the return of the copy of the record to him due to the refusal of such chief law enforcement officer to accept same in accordance with U.S. Postal Service regulations. The original Form 4473, and evidence of receipt or rejection of delivery of the copy of the Form 4473 sent to the chief law enforcement officer shall be retained by the licensee as a part of the records required of him to be kept under the provisions of subpart H of this part.
+
+c.
+1.A licensed importer, licensed manufacturer, or licensed dealer may sell or deliver a rifle or shotgun, and a licensed collector may sell or deliver a rifle or shotgun that is a curio or relic to a nonlicensed resident of a State other than the State in which the licensee's place of business is located if—
+
+i.The purchaser meets with the licensee in person at the licensee's premises to accomplish the transfer, sale, and delivery of the rifle or shotgun;
+
+ii.The licensed importer, licensed manufacturer, or licensed dealer complies with the provisions of § 478.102;
+
+iii.The purchaser furnishes to the licensed importer, licensed manufacturer, or licensed dealer the firearms transaction record, Form 4473, required by § 478.124; and
+
+iv.The sale, delivery, and receipt of the rifle or shotgun fully comply with the legal conditions of sale in both such States.
+
+2.For purposes of paragraph (c) of this section, any licensed manufacturer, licensed importer, or licensed dealer is presumed, in the absence of evidence to the contrary, to have had actual knowledge of the State laws and published ordinances of both such States.
+
+§ 478.97 Loan or rental of firearms.
+a.A licensee may lend or rent a firearm to any person for temporary use off the premises of the licensee for lawful sporting purposes: Provided, That the delivery of the firearm to such person is not prohibited by § 478.99(b) or § 478.99(c), the licensee complies with the requirements of § 478.102, and the licensee records such loan or rental in the records required to be kept by him under Subpart H of this part.
+
+b.A club, association, or similar organization temporarily furnishing firearms (whether by loan, rental, or otherwise) to participants in a skeet, trap, target, or similar shooting activity for use at the time and place such activity is held does not, unattended by other circumstances, cause such club, association, or similar organization to be engaged in the business of a dealer in firearms or as engaging in firearms transactions. Therefore, licensing and recordkeeping requirements contained in this part pertaining to firearms transactions would not apply to this temporary furnishing of firearms for use on premises on which such an activity is conducted.
+
+§ 478.98 Sales or deliveries of destructive devices and certain firearms.
+The sale or delivery by a licensee of any destructive device, machine gun, short-barreled shotgun, or short-barreled rifle, to any person other than another licensee who is licensed under this part to deal in such device or firearm, is prohibited unless the person to receive such device or firearm furnishes to the licensee a sworn statement setting forth
+
+a.The reasons why there is a reasonable necessity for such person to purchase or otherwise acquire the device or weapon; and
+
+b.That such person's receipt or possession of the device or weapon would be consistent with public safety. Such sworn statement shall be made on the application to transfer and register the firearm required by Part 479 of this chapter. The sale or delivery of the device or weapon shall not be made until the application for transfer is approved by the Director and returned to the licensee (transferor) as provided in Part 479 of this chapter.
+
+§ 478.99 Certain prohibited sales or deliveries.
+a.Interstate sales or deliveries. A licensed importer, licensed manufacturer, licensed dealer, or licensed collector shall not sell or deliver any firearm to any person not licensed under this part and who the licensee knows or has reasonable cause to believe does not reside in (or if a corporation or other business entity, does not maintain a place of business in) the State in which the licensee's place of business or activity is located: Provided, That the foregoing provisions of this paragraph (1) shall not apply to the sale or delivery of a rifle or shotgun (curio or relic, in the case of a licensed collector) to a resident of a State other than the State in which the licensee's place of business or collection premises is located if the requirements of § 478.96(c) are fully met, and (2) shall not apply to the loan or rental of a firearm to any person for temporary use for lawful sporting purposes (see § 478.97).
+
+b.Sales or deliveries to underaged persons. A licensed importer, licensed manufacturer, licensed dealer, or licensed collector shall not sell or deliver (1) any firearm or ammunition to any individual who the importer, manufacturer, dealer, or collector knows or has reasonable cause to believe is less than 18 years of age, and, if the firearm, or ammunition, is other than a shotgun or rifle, or ammunition for a shotgun or rifle, to any individual who the importer, manufacturer, dealer, or collector knows or has reasonable cause to believe is less than 21 years of age, or (2) any firearm to any person in any State where the purchase or possession by such person of such firearm would be in violation of any State law or any published ordinance applicable at the place of sale, delivery, or other disposition, unless the importer, manufacturer, dealer, or collector knows or has reasonable cause to believe that the purchase or possession would not be in violation of such State law or such published ordinance.
+
+c.Sales or deliveries to prohibited categories of persons. A licensed manufacturer, licensed importer, licensed dealer, or licensed collector shall not sell or otherwise dispose of any firearm or ammunition to any person knowing or having reasonable cause to believe that such person:
+
+1.Is, except as provided by § 478.143, under indictment for, or, except as provided by § 478.144, has been convicted in any court of a crime punishable by imprisonment for a term exceeding 1 year;
+
+2.Is a fugitive from justice;
+
+3.Is an unlawful user of or addicted to any controlled substance (as defined in section 102 of the Controlled Substance Act, 21 U.S.C. 802);
+
+4.Has been adjudicated as a mental defective or has been committed to any mental institution;
+
+5.Is an alien illegally or unlawfully in the United States or, except as provided in § 478.32(f), is an alien who has been admitted to the United States under a nonimmigrant visa: Provided, That the provisions of this paragraph (c)(5) do not apply to any alien who has been lawfully admitted to the United States under a nonimmigrant visa if that alien is—
+
+i.Admitted to the United States for lawful hunting or sporting purposes or is in possession of a hunting license or permit lawfully issued in the United States;
+
+ii.An official representative of a foreign government who is either accredited to the United States Government or the Government's mission to an international organization having its headquarters in the United States or en route to or from another country to which that alien is accredited. This exception only applies if the firearm or ammunition is shipped, transported, possessed, or received in the representative's official capacity;
+
+iii.An official of a foreign government or a distinguished foreign visitor who has been so designated by the Department of State. This exception only applies if the firearm or ammunition is shipped, transported, possessed, or received in the official's or visitor's official capacity, except if the visitor is a private individual who does not have an official capacity; or
+
+iv.A foreign law enforcement officer of a friendly foreign government entering the United States on official law enforcement business;
+
+6.Has been discharged from the Armed Forces under dishonorable conditions;
+
+7.Who, having been a citizen of the United States, has renounced citizenship;
+
+8.Is subject to a court order that restrains such person from harassing, stalking, or threatening an intimate partner of such person or child of such intimate partner or person, or engaging in other conduct that would place an intimate partner in reasonable fear of bodily injury to the partner or child, except that this paragraph shall only apply to a court order that—
+
+i.Was issued after a hearing of which such person received actual notice, and at which such person had the opportunity to participate; and
+
+ii.
+A.Includes a finding that such person represents a credible threat to the physical safety of such intimate partner or child; or
+
+B.By its terms explicitly prohibits the use, attempted use, or threatened use of physical force against such intimate partner or child that would reasonably be expected to cause bodily injury, or
+
+9.Has been convicted of a misdemeanor crime of domestic violence.
+
+d.Manufacture, importation, and sale of armor piercing ammunition by licensed importers and licensed manufacturers. A licensed importer or licensed manufacturer shall not import or manufacture armor piercing ammunition or sell or deliver such ammunition, except:
+
+1.For use of the United States or any department or agency thereof or any State or any department, agency, or political subdivision thereof;
+
+2.For the purpose of exportation; or
+
+3.For the purpose of testing or experimentation authorized by the Director under the provisions of § 478.149.
+
+e.Transfer of armor piercing ammunition by licensed dealers. A licensed dealer shall not willfully transfer armor piercing ammunition: Provided, That armor piercing ammunition received and maintained by the licensed dealer as business inventory prior to August 28, 1986, may be transferred to any department or agency of the United States or any State or political subdivision thereof if a record of such ammunition is maintained in the form and manner prescribed by § 478.125(c). Any licensed dealer who violates this paragraph is subject to license revocation. See subpart E of this part. For purposes of this paragraph, the Director shall furnish each licensed dealer information defining which projectiles are considered armor piercing. Such information may not be all-inclusive for purposes of the prohibition on manufacture, importation, or sale or delivery by a manufacturer or importer of such ammunition or 18 U.S.C. 929 relating to criminal misuse of such ammunition.
+
+§ 478.100 Conduct of business away from licensed premises.
+a.
+1.A licensee may conduct business temporarily at a gun show or event as defined in paragraph (b) if the gun show or event is located in the same State specified on the license: Provided, That such business shall not be conducted from any motorized or towed vehicle. The premises of the gun show or event at which the licensee conducts business shall be considered part of the licensed premises. Accordingly, no separate fee or license is required for the gun show or event locations. However, licensees shall comply with the provisions of § 478.91 relating to posting of licenses (or a copy thereof) while conducting business at the gun show or event.
+
+2.A licensed importer, manufacturer, or dealer may engage in the business of dealing in curio or relic firearms with another licensee at any location.
+
+b.A gun show or an event is a function sponsored by any national, State, or local organization, devoted to the collection, competitive use, or other sporting use of firearms, or an organization or association that sponsors functions devoted to the collection, competitive use, or other sporting use of firearms in the community.
+
+c.Licensees conducting business at locations other than the premises specified on their license under the provisions of paragraph (a) of this section shall maintain firearms records in the form and manner prescribed by subpart H of this part. In addition, records of firearms transactions conducted at such locations shall include the location of the sale or other disposition, be entered in the acquisition and disposition records of the licensee, and retained on the premises specified on the license.
+
+§ 478.101 Record of transactions.
+Every licensee shall maintain firearms and armor piercing ammunition records in such form and manner as is prescribed by subpart H of this part.
+
+§ 478.102 Sales or deliveries of firearms on and after November 30, 1998.
+a.Background check. Except as provided in paragraph (d) of this section, a licensed importer, licensed manufacturer, or licensed dealer (the licensee) shall not sell, deliver, or transfer a firearm to any other person who is not licensed under this part unless the licensee meets the following requirements:
+
+1.Before the completion of the transfer, the licensee has contacted NICS;
+
+2.
+i.NICS informs the licensee that it has no information that receipt of the firearm by the transferee would be in violation of Federal or State law and provides the licensee with a unique identification number; or
+
+ii.Three business days (meaning days on which State offices are open) have elapsed from the date the licensee contacted NICS and NICS has not notified the licensee that receipt of the firearm by the transferee would be in violation of law; and
+
+3.The licensee verifies the identity of the transferee by examining the identification document presented in accordance with the provisions of § 478.124(c).
+
+EXAMPLE FOR PARAGRAPH (A).
+A licensee contacts NICS on Thursday, and gets a “delayed” response. The licensee does not get a further response from NICS. If State offices are not open on Saturday and Sunday, 3 business days would have elapsed on the following Tuesday. The licensee may transfer the firearm on the next day, Wednesday.
+
+b.Transaction number. In any transaction for which a licensee receives a transaction number from NICS (which shall include either a NICS transaction number or, in States where the State is recognized as a point of contact for NICS checks, a State transaction number), such number shall be recorded on a firearms transaction record, Form 4473, which shall be retained in the records of the licensee in accordance with the provisions of § 478.129. This applies regardless of whether the transaction is approved or denied by NICS, and regardless of whether the firearm is actually transferred.
+
+c.Time limitation on NICS checks. A NICS check conducted in accordance with paragraph (a) of this section may be relied upon by the licensee only for use in a single transaction, and for a period not to exceed 30 calendar days from the date that NICS was initially contacted. If the transaction is not completed within the 30-day period, the licensee shall initiate a new NICS check prior to completion of the transfer.
+
+EXAMPLE 1 FOR PARAGRAPH (C).
+A purchaser completes the Form 4473 on December 15, 1998, and a NICS check is initiated by the licensee on that date. The licensee is informed by NICS that the information available to the system does not indicate that receipt of the firearm by the transferee would be in violation of law, and a unique identification number is provided. However, the State imposes a 7-day waiting period on all firearms transactions, and the purchaser does not return to pick up the firearm until January 22, 1999. The licensee must conduct another NICS check before transferring the firearm to the purchaser.
+
+EXAMPLE 2 FOR PARAGRAPH (C).
+A purchaser completes the Form 4473 on January 25, 1999, and arranges for the purchase of a single firearm. A NICS check is initiated by the licensee on that date. The licensee is informed by NICS that the information available to the system does not indicate that receipt of the firearm by the transferee would be in violation of law, and a unique identification number is provided. The State imposes a 7-day waiting period on all firearms transactions, and the purchaser returns to pick up the firearm on February 15, 1999. Before the licensee executes the Form 4473, and the firearm is transferred, the purchaser decides to purchase an additional firearm. The transfer of these two firearms is considered a single transaction; accordingly, the licensee may add the second firearm to the Form 4473, and transfer that firearm without conducting another NICS check.
+
+EXAMPLE 3 FOR PARAGRAPH (C).
+A purchaser completes a Form 4473 on February 15, 1999. The licensee receives a unique identification number from NICS on that date, the Form 4473 is executed by the licensee, and the firearm is transferred. On February 20, 1999, the purchaser returns to the licensee's premises and wishes to purchase a second firearm. The purchase of the second firearm is a separate transaction; thus, a new NICS check must be initiated by the licensee.
+
+d.Exceptions to NICS check. The provisions of paragraph (a) of this section shall not apply if—
+
+1.The transferee has presented to the licensee a valid permit or license that—
+
+i.Allows the transferee to possess, acquire, or carry a firearm;
+
+ii.Was issued not more than 5 years earlier by the State in which the transfer is to take place; and
+
+iii.The law of the State provides that such a permit or license is to be issued only after an authorized government official has verified that the information available to such official does not indicate that possession of a firearm by the transferee would be in violation of Federal, State, or local law: Provided, That on and after November 30, 1998, the information available to such official includes the NICS;
+
+2.The firearm is subject to the provisions of the National Firearms Act and has been approved for transfer under 27 CFR part 479; or
+
+3.On application of the licensee, in accordance with the provisions of § 478.150, the Director has certified that compliance with paragraph (a)(1) of this section is impracticable.
+
+e.The document referred to in paragraph (d)(1) of this section (or a copy thereof) shall be retained or the required information from the document shall be recorded on the firearms transaction record in accordance with the provisions of § 478.131.
+
+§ 478.103 Posting of signs and written notification to purchasers of handguns.
+a.Each licensed importer, manufacturer, dealer, or collector who delivers a handgun to a nonlicensee shall provide such nonlicensee with written notification as described in paragraph (b) of this section.
+
+b.The written notification (ATF I 5300.2) required by paragraph (a) of this section shall state as follows:
+
+The standard notification described in this paragraph can be downloaded here: ATF I 5300.2
+
+(1) The misuse of handguns is a leading contributor to juvenile violence and fatalities.
+
+(2) Safely storing and securing firearms away from children will help prevent the unlawful possession of handguns by juveniles, stop accidents, and save lives.
+
+(3) Federal law prohibits, except in certain limited circumstances, anyone under 18 years of age from knowingly possessing a handgun, or any person from transferring a handgun to a person under 18.
+
+(4) A knowing violation of the prohibition against selling, delivering, or otherwise transferring a handgun to a person under the age of 18 is, under certain circumstances, punishable by up to 10 years in prison.
+
+FEDERAL LAW
+The Gun Control Act of 1968, 18 U.S.C. Chapter 44, provides in pertinent part as follows:
+
+18 U.S.C. 922(X)
+(x)(1) It shall be unlawful for a person to sell, deliver, or otherwise transfer to a person who the transferor knows or has reasonable cause to believe is a juvenile—
+
+(A) a handgun; or
+
+(B) ammunition that is suitable for use only in a handgun.
+
+(2) It shall be unlawful for any person who is a juvenile to knowingly possess—
+
+(A) a handgun; or
+
+(B) ammunition that is suitable for use only in a handgun.
+
+(3) This subsection does not apply to—
+
+(A) a temporary transfer of a handgun or ammunition to a juvenile or to the possession or use of a handgun or ammunition by a juvenile if the handgun and ammunition are possessed and used by the juvenile—
+
+(i) in the course of employment, in the course of ranching or farming related to activities at the residence of the juvenile (or on property used for ranching or farming at which the juvenile, with the permission of the property owner or lessee, is performing activities related to the operation of the farm or ranch), target practice, hunting, or a course of instruction in the safe and lawful use of a handgun;
+
+(ii) with the prior written consent of the juvenile's parent or guardian who is not prohibited by Federal, State, or local law from possessing a firearm, except—
+
+(I) during transportation by the juvenile of an unloaded handgun in a locked container directly from the place of transfer to a place at which an activity described in clause (i) is to take place and transportation by the juvenile of that handgun, unloaded and in a locked container, directly from the place at which such an activity took place to the transferor; or
+
+(II) with respect to ranching or farming activities as described in clause (i) a juvenile may possess and use a handgun or ammunition with the prior written approval of the juvenile's parent or legal guardian and at the direction of an adult who is not prohibited by Federal, State, or local law from possessing a firearm;
+
+(iii) the juvenile has the prior written consent in the juvenile's possession at all times when a handgun is in the possession of the juvenile; and
+
+(iv) in accordance with State and local law;
+
+(B) a juvenile who is a member of the Armed Forces of the United States or the National Guard who possesses or is armed with a handgun in the line of duty;
+
+(C) a transfer by inheritance of title (but not possession) of a handgun or ammunition to a juvenile; or
+
+(D) the possession of a handgun or ammunition by a juvenile taken in defense of the juvenile or other persons against an intruder into the residence of the juvenile or a residence in which the juvenile is an invited guest.
+
+(4) A handgun or ammunition, the possession of which is transferred to a juvenile in circumstances in which the transferor is not in violation of this subsection shall not be subject to permanent confiscation by the Government if its possession by the juvenile subsequently becomes unlawful because of the conduct of the juvenile, but shall be returned to the lawful owner when such handgun or ammunition is no longer required by the Government for the purposes of investigation or prosecution.
+
+(5) For purposes of this subsection, the term “juvenile” means a person who is less than 18 years of age.
+
+(6)(A) In a prosecution of a violation of this subsection, the court shall require the presence of a juvenile defendant's parent or legal guardian at all proceedings.
+
+(B) The court may use the contempt power to enforce subparagraph (A).
+
+(C) The court may excuse attendance of a parent or legal guardian of a juvenile defendant at a proceeding in a prosecution of a violation of this subsection for good cause shown.
+
+18 U.S.C. 924(A)(6)
+(6)(A)(i) A juvenile who violates section 922(x) shall be fined under this title, imprisoned not more than 1 year, or both, except that a juvenile described in clause (ii) shall be sentenced to probation on appropriate conditions and shall not be incarcerated unless the juvenile fails to comply with a condition of probation.
+
+(ii) A juvenile is described in this clause if—
+
+(I) the offense of which the juvenile is charged is possession of a handgun or ammunition in violation of section 922(x)(2); and
+
+(II) the juvenile has not been convicted in any court of an offense (including an offense under section 922(x) or a similar State law, but not including any other offense consisting of conduct that if engaged in by an adult would not constitute an offense) or adjudicated as a juvenile delinquent for conduct that if engaged in by an adult would constitute an offense.
+
+(B) A person other than a juvenile who knowingly violates section 922(x)—
+
+(i) shall be fined under this title, imprisoned not more than 1 year, or both; and
+
+(ii) if the person sold, delivered, or otherwise transferred a handgun or ammunition to a juvenile knowing or having reasonable cause to know that the juvenile intended to carry or otherwise possess or discharge or otherwise use the handgun or ammunition in the commission of a crime of violence, shall be fined under this title, imprisoned not more than 10 years, or both.
+
+c.This written notification shall be delivered to the nonlicensee on ATF I 5300.2, or in the alternative, the same written notification may be delivered to the nonlicensee on another type of written notification, such as a manufacturer's or importer's brochure accompanying the handgun; a manufacturer's or importer's operational manual accompanying the handgun; or a sales receipt or invoice applied to the handgun package or container delivered to a nonlicensee. Any written notification delivered to a nonlicensee other than on ATF I 5300.2 shall include the language set forth in paragraph (b) of this section in its entirety. Any written notification other than ATF I 5300.2 shall be legible, clear, and conspicuous, and the required language shall appear in type size no smaller than 10-point type.
+
+d.Except as provided in paragraph (f) of this section, each licensed importer, manufacturer, or dealer who delivers a handgun to a nonlicensee shall display at its licensed premises (including temporary business locations at gun shows) a sign as described in paragraph (e) of this section. The sign shall be displayed where customers can readily see it. Licensed importers, manufacturers, and dealers will be provided with such signs by ATF. Replacement signs may be requested from the ATF Distribution Center.
+
+e.The sign (ATF I 5300.1) required by paragraph (d) of this section shall state as follows:
+
+The standard notification described in this paragraph can be downloaded here: ATF I 5300.1
+
+(1) The misuse of handguns is a leading contributor to juvenile violence and fatalities.
+
+(2) Safely storing and securing firearms away from children will help prevent the unlawful possession of handguns by juveniles, stop accidents, and save lives.
+
+(3) Federal law prohibits, except in certain limited circumstances, anyone under 18 years of age from knowingly possessing a handgun, or any person from transferring a handgun to a person under 18.
+
+(4) A knowing violation of the prohibition against selling, delivering, or otherwise transferring a handgun to a person under the age of 18 is, under certain circumstances, punishable by up to 10 years in prison.
+
+Note:
+ATF I 5300.2 provides the complete language of the statutory prohibitions and exceptions provided in 18 U.S.C. 922(x) and the penalty provisions of 18 U.S.C. 924(a)(6). The Federal firearms licensee posting this sign will provide you with a copy of this publication upon request. Requests for additional copies of ATF I 5300.2 should be submitted to the ATF Distribution Center ( http://www.atf.gov ) or made by calling (202) 648-6420.
+
+f.The sign required by paragraph (d) of this section need not be posted on the premises of any licensed importer, manufacturer, or dealer whose only dispositions of handguns to nonlicensees are to nonlicensees who do not appear at the licensed premises and the dispositions otherwise comply with the provisions of this part.
+
+§ 478.104 Secure gun storage or safety device.
+a.Any person who applies to be a licensed firearms dealer must certify on ATF Form 7 (5310.12), Application for Federal Firearms License, that compatible secure gun storage or safety devices will be available at any place where firearms are sold under the license to nonlicensed individuals (subject to the exception that in any case in which a secure gun storage or safety device is temporarily unavailable because of theft, casualty, loss, consumer sales, backorders from a manufacturer, or any other similar reason beyond the control of the licensee, the dealer shall not be considered in violation of the requirement to make available such a device).
+
+b.Any person who applies to be a licensed firearms importer or a licensed manufacturer and will be engaged in business on the licensed premises as a dealer in the same type of firearms authorized by the license to be imported or manufactured must make the certification required under paragraph (a) of this section.
+
+c.Each licensee described in this section must have compatible secure gun storage or safety devices available at any place in which firearms are sold under the license to persons who are not licensees. However, such licensee shall not be considered to be in violation of this requirement if a secure gun storage or safety device is temporarily unavailable because of theft, casualty loss, consumer sales, backorders from a manufacturer, or any other similar reason beyond the control of the licensee.

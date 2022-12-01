@@ -1,0 +1,119 @@
+§ 479.31 Liability for tax.
+a.General. Every person who engages in the business of importing, manufacturing, or dealing in (including pawnbrokers) firearms in the United States shall pay a special (occupational) tax at a rate specified by § 479.32. The tax shall be paid on or before the date of commencing the taxable business, and thereafter every year on or before July 1. Special (occupational) tax shall not be prorated. The tax shall be computed for the entire tax year (July 1 through June 30), regardless of the portion of the year during which the taxpayer engages in business. Persons commencing business at any time after July 1 in any year are liable for the special (occupational) tax for the entire tax year.
+
+b.Each place of business taxable. An importer, manufacturer, or dealer in firearms incurs special tax liability at each place of business where an occupation subject to special tax is conducted. A place of business means the entire office, plant or area of the business in any one location under the same proprietorship. Passageways, streets, highways, rail crossings, waterways, or partitions dividing the premises are not sufficient separation to require additional special tax, if the divisions of the premises are otherwise contiguous. See also §§ 479.38-479.39.
+
+§ 479.32 Special (occupational) tax rates.
+Except as provided in § 479.32a, the special (occupational) tax rates effective January 1, 1988, are as follows:
+
+
+Per year or fraction thereof
+Class 1—Importer of firearms (including an importer only of weapons classified as “any other weapon”)	$1,000
+Class 2—Manufacturer of firearms (including a manufacturer only of weapons classified as “any other weapon”)	1,000
+Class 3—Dealer in firearms (including a dealer only of weapons classified as “any other weapon”)	500
+§ 479.32a Reduced rate of tax for small importers and manufacturers.
+a.General. Effective January 1, 1988, 26 U.S.C. 5801(b) provides for a reduced rate of special tax with respect to any importer or manufacturer whose gross receipts (for the most recent taxable year ending before the first day of the taxable period to which the special tax imposed by § 479.32 relates) are less than $500,000. The rate of tax for such an importer or manufacturer is $500 per year or fraction thereof. The “taxable year” to be used for determining gross receipts is the taxpayer's income tax year. All gross receipts of the taxpayer shall be included, not just the gross receipts of the business subject to special tax. Proprietors of new businesses that have not yet begun a taxable year, as well as proprietors of existing businesses that have not yet ended a taxable year, who commence a new activity subject to special tax, quality for the reduced special (occupational) tax rate, unless the business is a member of a “controlled group”; in that case, the rules of paragraph (b) of this section shall apply.
+
+b.Controlled group. All persons treated as one taxpayer under 26 U.S.C. 5061(e)(3) shall be treated as one taxpayer for the purpose of determining gross receipts under paragraph (a) of this section. “Controlled group” means a controlled group of corporations, as defined in 26 U.S.C. 1563 and implementing regulations in 26 CFR 1.1563-1 through 1.1563-4, except that the words “at least 80 percent” shall be replaced by the words “more than 50 percent” in each place they appear in subsection (a) of 26 U.S.C. 1563, as well as in the implementing regulations. Also, the rules for a “controlled group of corporations” apply in a similar fashion to groups which include partnerships and/or sole proprietorships. If one entity maintains more than 50% control over a group consisting of corporations and one, or more, partnerships and/or sole proprietorships, all of the members of the controlled group are one taxpayer for the purpose of this section.
+
+c.Short taxable year. Gross receipts for any taxable year of less than 12 months shall be annualized by multiplying the gross receipts for the short period by 12 and dividing the result by the number of months in the short period, as required by 26 U.S.C. 448(c)(3).
+
+d.Returns and allowances. Gross receipts for any taxable year shall be reduced by returns and allowances made during that year under 26 U.S.C. 448(c)(3).
+
+§ 479.33 Special exemption.
+a.Any person required to pay special (occupational) tax under this part shall be relieved from payment of that tax if he establishes to the satisfaction of the Director that his business is conducted exclusively with, or on behalf of, the United States or any department, independent establishment, or agency thereof. The Director may relieve any person manufacturing firearms for or on behalf of the United States from compliance with any provision of this part in the conduct of the business with respect to such firearms.
+
+b.The exemption in this section may be obtained by filing with the Director an application, in letter form, setting out the manner in which the applicant conducts his business, the type of firearm to be manufactured, and proof satisfactory to the Director of the existence of the contract with the United States, department, independent establishment, or agency thereof, under which the applicant intends to operate.
+
+§ 479.34 Special tax registration and return.
+a.General. Special tax shall be paid by return. The prescribed return is ATF Form 5630.7, Special Tax Registration and Return. Special tax returns, with payment of tax, shall be filed with ATF in accordance with instructions on the form. Properly completing, signing, and timely filing of a return (Form 5630.7) constitutes compliance with 26 U.S.C. 5802.
+
+b.Preparation of ATF Form 5630.7. All of the information called for on Form 5630.7 shall be provided, including:
+
+1.The true name of the taxpayer.
+
+2.The trade name(s) (if any) of the business(es) subject to special tax.
+
+3.The employer identification number (see § 479.35).
+
+4.The exact location of the place of business, by name and number of building or street, or if these do not exist, by some description in addition to the post office address. In the case of one return for two or more locations, the address to be shown shall be the taxpayer's principal place of business (or principal office, in the case of a corporate taxpayer).
+
+5.The class(es) of special tax to which the taxpayer is subject.
+
+6.Ownership and control information: That is, the name, position, and residence address of every owner of the business and of every person having power to control its management and policies with respect to the activity subject to special tax. “Owner of the business” shall include every partner, if the taxpayer is a partnership, and every person owning 10% or more of its stock, if the taxpayer is a corporation. However, the ownership and control information required by this paragraph need not be stated if the same information has been previously provided to ATF in connection with a license application under Part 478 of this chapter, and if the information previously provided is still current.
+
+c.Multiple locations and/or classes of tax. A taxpayer subject to special tax for the same period at more than one location or for more than one class of tax shall—
+
+1.File one special tax return, ATF Form 5630.7, with payment of tax, to cover all such locations and classes of tax; and
+
+2.Prepare, in duplicate, a list identified with the taxpayer's name, address (as shown on ATF Form 5630.7), employer identification number, and period covered by the return. The list shall show, by States, the name, address, and tax class of each location for which special tax is being paid. The original of the list shall be filed with ATF in accordance with instructions on the return, and the copy shall be retained at the taxpayer's principal place of business (or principal office, in the case of a corporate taxpayer) for not less than 3 years.
+
+d.Signing of ATF Forms 5630.7 —
+
+1.ORDINARY RETURNS. The return of an individual proprietor shall be signed by the individual. The return of a partnership shall be signed by a general partner. The return of a corporation shall be signed by any officer. In each case, the person signing the return shall designate his or her capacity as “individual owner,” “member of firm,” or, in the case of a corporation, the title of the officer.
+
+2.FIDUCIARIES. Receivers, trustees, assignees, executors, administrators, and other legal representatives who continue the business of a bankrupt, insolvent, deceased person, etc., shall indicate the fiduciary capacity in which they act.
+
+3.AGENT OR ATTORNEY IN FACT. If a return is signed by an agent or attorney in fact, the signature shall be preceded by the name of the principal and followed by the title of the agent or attorney in fact. A return signed by a person as agent will not be accepted unless there is filed, with the ATF office with which the return is required to be filed, a power of attorney authorizing the agent to perform the act.
+
+4.PERJURY STATEMENT. ATF Forms 5630.7 shall contain or be verified by a written declaration that the return has been executed under the penalties of perjury.
+
+e.Identification of taxpayer. If the taxpayer is an individual, with the initial return such person shall securely attach to Form 5630.7 a photograph of the individual 2 × 2 inches in size, clearly showing a full front view of the features of the individual with head bare, with the distance from the top of the head to the point of the chin approximately 1 1/4 inches, and which shall have been taken within 6 months prior to the date of completion of the return. The individual shall also attach to the return a properly completed FBI Form FD-258 (Fingerprint Card). The fingerprints must be clear for accurate classification and should be taken by someone properly equipped to take them: Provided, That the provisions of this paragraph shall not apply to individuals who have filed with ATF a properly executed Application for License under 18 U.S.C. Chapter 44, Firearms, ATF Form 7 (5310.12), as specified in § 478.44(a).
+
+§ 479.35 Employer identification number.
+a.Requirement. The employer identification number (defined in 26 CFR 301.7701-12) of the taxpayer who has been assigned such a number shall be shown on each special tax return, including amended returns, filed under this subpart. Failure of the taxpayer to include the employer identification number may result in the imposition of the penalty specified in § 70.113 of this chapter.
+
+b.Application for employer identification number. Each taxpayer who files a special tax return, who has not already been assigned an employer identification number, shall file IRS Form SS-4 to apply for one. The taxpayer shall apply for and be assigned only one employer identification number, regardless of the number of places of business for which the taxpayer is required to file a special tax return. The employer identification number shall be applied for no later than 7 days after the filing of the taxpayer's first special tax return. IRS Form SS-4 may be obtained from the director of an IRS service center or from any IRS district director.
+
+c.Preparation and filing of IRS Form SS-4. The taxpayer shall prepare and file IRS Form SS-4, together with any supplementary statement, in accordance with the instructions on the form or issued in respect to it.
+
+§ 479.36 The special tax stamp, receipt for special (occupational) taxes.
+Upon filing a properly completed and executed return (Form 5630.7) accompanied by remittance of the full amount due, the taxpayer will be issued a special tax stamp as evidence of payment of the special (occupational) tax.
+
+§ 479.37 Certificates in lieu of stamps lost or destroyed.
+When a special tax stamp has been lost or destroyed, such fact should be reported immediately to the Chief, National Firearms Act Branch who issued the stamp. A certificate in lieu of the lost or destroyed stamp will be issued to the taxpayer upon the submission of an affidavit showing to the satisfaction of the Chief, National Firearms Act Branch that the stamp was lost or destroyed.
+
+§ 479.38 Engaging in business at more than one location.
+A person shall pay the special (occupational) tax for each location where he engages in any business taxable under 26 U.S.C. 5801. However, a person paying a special (occupational) tax covering his principal place of business may utilize other locations solely for storage of firearms without incurring special (occupational) tax liability at such locations. A manufacturer, upon the single payment of the appropriate special (occupational) tax, may sell firearms, if such firearms are of his own manufacture, at the place of manufacture and at his principal office or place of business if no such firearms, except samples, are kept at such office or place of business. When a person changes the location of a business for which he has paid the special (occupational) tax, he will be liable for another such tax unless the change is properly registered with the Chief, National Firearms Act Branch for the region in which the special tax stamp was issued, as provided in § 479.46.
+
+§ 479.39 Engaging in more than one business at the same location.
+If more than one business taxable under 26 U.S.C. 5801, is carried on at the same location during a taxable year, the special (occupational) tax imposed on each such business must be paid. This section does not require a qualified manufacturer or importer to qualify as a dealer if such manufacturer or importer also engages in business on his qualified premises as a dealer. However, a qualified manufacturer who engages in business as an importer must also qualify as an importer. Further, a qualified dealer is not entitled to engage in business as a manufacturer or importer.
+
+§ 479.40 Partnership liability.
+Any number of persons doing business in partnership at any one location shall be required to pay but one special (occupational) tax.
+
+§ 479.41 Single sale.
+A single sale, unattended by circumstances showing the one making the sale to be engaged in business, does not create special (occupational) tax liability.
+
+§ 479.42 Changes through death of owner.
+Whenever any person who has paid special (occupational) tax dies, the surviving spouse or child, or executors or administrators, or other legal representatives, may carry on this business for the remainder of the term for which tax has been paid and at the place (or places) for which the tax was paid, without any additional payment, subject to the following conditions. If the surviving spouse or child, or executor or administrator, or other legal representative of the deceased taxpayer continues the business, such person shall, within 30 days after the date on which the successor begins to carry on the business, file a new return, Form 5630.7, with ATF in accordance with the instructions on the form. The return thus executed shall show the name of the original taxpayer, together with the basis of the succession. (As to liability in case of failure to register, see § 479.49.)
+
+§ 479.43 Changes through bankruptcy of owner.
+A receiver or referee in bankruptcy may continue the business under the stamp issued to the taxpayer at the place and for the period for which the tax was paid. An assignee for the benefit of creditors may continue business under his assignor's special tax stamp without incurring additional special (occupational) tax liability. In such cases, the change shall be registered with ATF in a manner similar to that required by § 479.42.
+
+§ 479.44 Change in partnership or unincorporated association.
+When one or more members withdraw from a partnership or an unincorporated association, the remaining member, or members, may, without incurring additional special (occupational) tax liability, carry on the same business at the same location for the balance of the taxable period for which special (occupational) tax was paid, provided any such change shall be registered in the same manner as required by § 479.42. Where new member(s) are taken into a partnership or an unincorporated association, the new firm so constituted may not carry on business under the special tax stamp of the old firm. The new firm must file a return, pay the special (occupational) tax and register in the same manner as a person who first engages in business is required to do under § 479.34 even though the name of the new firm may be the same as that of the old. Where the members of a partnership or an unincorporated association, which has paid special (occupational) tax, form a corporation to continue the business, a new special tax stamp must be taken out in the name of the corporation.
+
+§ 479.45 Changes in corporation.
+Additional special (occupational) tax is not required by reason of a mere change of name or increase in the capital stock of a corporation if the laws of the State of incorporation provide for such change or increase without the formation of a new corporation. A stockholder in a corporation who after its dissolution continues the business, incurs new special (occupational) tax liability.
+
+§ 479.46 Notice by taxpayer.
+Whenever during the taxable year a taxpayer intends to remove his business to a location other than specified in his last special (occupational) tax return (see § 479.34), he shall file with ATF (a) a return, Form 5630.7, bearing the notation “Removal Registry,” and showing the new address intended to be used, (b) his current special tax stamp, and (c) a letter application requesting the amendment of his registration. The Chief, National Firearms Act Branch, upon approval of the application, shall return the special tax stamp, amended to show the new business location. Firearms operations shall not be commenced at the new business location by the taxpayer prior to the required approval of his application to so change his business location.
+
+§ 479.47 Notice by taxpayer.
+Whenever during the taxable year a taxpayer intends to change the name of his business, he shall file with ATF (a) a return, Form 5630.7, bearing the notation “Amended,” and showing the trade name intended to be used, (b) his current special tax stamp, and (c) a letter application requesting the amendment of his registration. The Chief, National Firearms Act Branch, upon approval of the application, shall return the special tax stamp, amended to show the new trade name. Firearms operations shall not be commenced under the new trade name by the taxpayer prior to the required approval of his application to so change the trade name.
+
+§ 479.48 Failure to pay special (occupational) tax.
+Any person who engages in a business taxable under 26 U.S.C. 5801, without timely payment of the tax imposed with respect to such business (see § 479.34) shall be liable for such tax, plus the interest and penalties thereon (see 26 U.S.C. 6601 and 6651). In addition, such person may be liable for criminal penalties under 26 U.S.C. 5871.
+
+§ 479.49 Failure to register change or removal.
+Any person succeeding to and carrying on a business for which special (occupational) tax has been paid without registering such change within 30 days thereafter, and any taxpayer removing his business with respect to which special (occupational) tax has been paid to a place other than that for which tax was paid without obtaining approval therefor (see § 479.46), will incur liability to an additional payment of the tax, addition to tax and interest, as provided in sections 5801, 6651, and 6601, respectively, I.R.C., for failure to make return (see § 479.50) or pay tax, as well as criminal penalties for carrying on business without payment of special (occupational) tax (see section 5871 I.R.C.).
+
+§ 479.50 Delinquency.
+Any person liable for special (occupational) tax under section 5801, I.R.C., who fails to file a return (Form 5630.7), as prescribed, will be liable for a delinquency penalty computed on the amount of tax due unless a return (Form 5630.7) is later filed and failure to file the return timely is shown to the satisfaction of the Chief, National Firearms Act Branch, to be due to reasonable cause. The delinquency penalty to be added to the tax is 5 percent if the failure is for not more than 1 month, with an additional 5 percent for each additional month or fraction thereof during which failure continues, not to exceed 25 percent in the aggregate (section 6651, I.R.C.). However, no delinquency penalty is assessed where the 50 percent addition to tax is assessed for fraud (see § 479.51).
+
+§ 479.51 Fraudulent return.
+If any part of any underpayment of tax required to be shown on a return is due to fraud, there shall be added to the tax an amount equal to 50 percent of the underpayment, but no delinquency penalty shall be assessed with respect to the same underpayment (section 6653, I.R.C.).
+
+§ 479.52 State regulations.
+Special tax stamps are merely receipts for the tax. Payment of tax under Federal law confers no privilege to act contrary to State law. One to whom a special tax stamp has been issued may still be punishable under a State law prohibiting or controlling the manufacture, possession or transfer of firearms. On the other hand, compliance with State law confers no immunity under Federal law. Persons who engage in the business of importing, manufacturing or dealing in firearms, in violation of the law of a State, are nevertheless required to pay special (occupational) tax as imposed under the internal revenue laws of the United States. For provisions relating to restrictive use of information furnished to comply with the provisions of this part see § 479.23.
